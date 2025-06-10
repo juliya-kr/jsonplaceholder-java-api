@@ -1,0 +1,3 @@
+rootProject.name = 'jsonplaceholder-java-api'
+include 'app'
+project(':app').name = 'jsonplaceholder-api' 
